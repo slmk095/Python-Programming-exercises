@@ -1,0 +1,6 @@
+cat
+good
+bad
+ball
+bell
+bear
